@@ -1,0 +1,25 @@
+24, BC
+11, BAE
+ 5, BV
+23, BB
+22, CG
+70, CDs
+ 1, GR
+16, GB
+ 6, JM
+ 2, KS
+31, LB
+18, MB
+57, MA
+ 4, NA
+97, PR
+77, PA
+ 7, PN
+100, TM
+98, TD
+28, TC
+19, VA
+80, VT
+ 9, VE
+12, ȘF
+14, ȘM
